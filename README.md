@@ -1,4 +1,4 @@
-# module_10_assignment_01
+# module_10_assignment_01 (Greeting App)
 
 A new Flutter project.
 
